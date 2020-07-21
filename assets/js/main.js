@@ -175,7 +175,7 @@
     autoplay: true,
     dots: true,
     loop: true,
-    items: 1
+    items: 2
   });
 
   // Porfolio isotope and filter
@@ -205,7 +205,7 @@
     autoplay: true,
     dots: true,
     loop: true,
-    items: 1
+    items: 2
   });
 
   // Init AOS
